@@ -1,4 +1,4 @@
-package com.example.lab4;
+package com.example.seg2105_lab_4;
 
 import java.io.Serializable;
 
